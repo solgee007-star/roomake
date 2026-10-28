@@ -1,0 +1,6 @@
+{
+  "name": "마이 코지 룸 - 방 꾸미기 게임",
+  "description": "사용자의 이름과 성별, 방 이름을 설정하고 다양한 가구와 소품을 자유롭게 배치할 수 있는 아늑한 감성 인테리어 룸 데코레이션 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
